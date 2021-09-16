@@ -1,4 +1,4 @@
-lion red
+red lion red
 tiger
 leopard
 turtle
